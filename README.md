@@ -1,5 +1,7 @@
-# DataAnalysis_Python
-Python으로 데이터 분석하기 🐱‍💻
+# MachineLearning_with_Python
+Machine Learning 공부 해보기🐱‍💻
 
 
-Machine Learning with Python
+
+* Data Analysis with Python
+* Machine Learning Study 
