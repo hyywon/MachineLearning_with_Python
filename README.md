@@ -4,4 +4,5 @@ Machine Learning 공부 해보기🐱‍💻
 
 
 * Data Analysis with Python
-* Machine Learning Study 
+* Machine Learning 
+* Deep Learning
